@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roushan Mishra</h1>
-<h3 align="center">Electronics & Communication Engineering Student | FPGA • VLSI • Embedded Systems</h3>
+<h3 align="center">Electronics & Communication Engineering Student | FPGA • VLSI • Drone </h3>
 
 <p align="center">
 Building Digital Hardware • Learning ASIC Design • Creating Engineering Content
@@ -12,7 +12,7 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 - 🎓 B.Tech in Electronics & Communication Engineering
 - 💻 Passionate about FPGA, VLSI & Digital Design
 - 🌱 Currently learning Verilog HDL, SystemVerilog & RISC-V
-- 🚁 Interested in Drone Technology & Embedded Systems
+- 🚁 Interested in Drone Technology
 - 🎥 Sharing Electronics tutorials on **Ignite Circuits**
 
 ---
@@ -65,7 +65,7 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 - Digital Electronics
 - FPGA
 - VLSI
-- Embedded Systems
+- Drone Technology
 - Signal Processing
 - Communication Systems
 
@@ -76,9 +76,8 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 - FPGA Projects
 - Verilog HDL
 - VLSI Design
-- RISC-V Processor
 - Digital Logic Design
-- Embedded Systems
+
 
 ---
 
