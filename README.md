@@ -28,7 +28,7 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/roushan_mishra/" target="_blank">
+<a href="https://www.instagram.com/roushan._mishra/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
