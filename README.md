@@ -47,14 +47,10 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=HTML" height="45"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-<img src="https://skillicons.dev/icons?i=CSS" height="45"/>
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
-
-
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![NI Multisim](https://img.shields.io/badge/NI-Multisim-00ADEF?style=for-the-badge)
 
 
 </p>
