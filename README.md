@@ -49,6 +49,8 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
+<img src="https://skillicons.dev/icons?i=Verilog HDL"/>
+
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -56,6 +58,8 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 <img src="https://skillicons.dev/icons?i=linux"/>
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
+
+
 
 </p>
 
