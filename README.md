@@ -47,9 +47,10 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
 
 
 </p>
