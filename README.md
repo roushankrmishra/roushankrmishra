@@ -42,19 +42,24 @@ Building Digital Hardware • Learning ASIC Design • Creating Engineering Cont
 ## 🛠️ Languages & Tools
 
 <p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NI-Multisim-00ADEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intel-Quartus-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=Xilinx"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=EDA Playground"/>
-
+</p>
 
 
 </p>
